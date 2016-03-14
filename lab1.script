@@ -1,0 +1,17 @@
+Script started on 2016年03月14日 (週一) 22時25分55秒
+]0;F74046179@2015cpp: ~/lab1F74046179@2015cpp:~/lab1$ wha[Koami; pwd
+F74046179
+/home/F74046179/lab1
+]0;F74046179@2015cpp: ~/lab1F74046179@2015cpp:~/lab1$ gir[Kt config -l
+user.name=GGthebest
+user.email=willy850923@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F74046179@2015cpp: ~/lab1F74046179@2015cpp:~/lab1$ git clone https://github.com/GGthebest/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74046179@2015cpp: ~/lab1F74046179@2015cpp:~/lab1$ exit
+
+Script done on 2016年03月14日 (週一) 22時31分11秒
